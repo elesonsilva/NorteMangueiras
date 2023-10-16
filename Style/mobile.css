@@ -135,7 +135,7 @@ html::-webkit-scrollbar{
         position: relative;
         height: 100vh;
         width: 100%;
-       display: none;
+        display: none;
     }
     
     .coteiner-inicial .btn-servicos{
@@ -180,7 +180,7 @@ html::-webkit-scrollbar{
     .coteiner-inicial .card-num-produtos{
         position: absolute;
         top: 0;
-        margin-top: 45%;
+        margin-top: 65%;
         right: 0;
         margin-right: 35px;
         width: 240px;
